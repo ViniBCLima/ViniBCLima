@@ -27,5 +27,7 @@
  	<a href="https://www.twitch.tv/LuckDxrk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:viniciusbclima27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciusbclima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
+  
+  
+  ![zeniii](https://user-images.githubusercontent.com/93060761/187854004-64249c88-93d1-4780-b6c6-77e292c5564c.gif)

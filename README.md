@@ -1,8 +1,8 @@
-### 🎴 Olá galera! Meu nome é Vinícius Breschigliari Conrrado Lima, Sou apaixonado por games e tecnologia, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE!
+### 🎴 Olá galera! Meu nome é Vinícius Breschigliari Conrrado Lima, Sou apaixonado por games e tecnologia, e atualmente estou estudando na área de Dados!
 
-- 👨‍💻 Sou autodidata e atualmente ando estudando programação.
-- 💻 Tenho como objetivo me tornar um FullStack!
-- 📝 Atualmente estou estudando linguagens Back-End como Python e PHP, e aperfeiçõando meu Front-End.
+- 👨‍💻 Sou autodidata e atualmente ando estudando Dados, Automações & IA.
+- 💻 Tenho como objetivo me tornar um Ciêntista de Dados!
+- 📝 Atualmente estou estudando linguagens como Python e aperfeiçõando meu Front-End.
 
 ##
 
